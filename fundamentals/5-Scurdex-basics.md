@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-main-l.png)
 
-# Unstoppable Wallet
+# Scurdex Wallet
 
 In this section we will focus on practical aspects and go through 'things to know' when using non-custodial wallet apps.
 
@@ -14,7 +14,7 @@ From user's perspective, basic expectations from any non-custodial wallet app sh
 
 Apart from the above must-haves, there may be other expectations from the wallet depending on the target user. Someone looking for extensive privacy may require extra private features which are not available in most wallet apps.
 
-> **Disclaimer: The [Unstoppable Wallet](https://unstoppable.money) was built by [Horizontal Systems](https://horizontalsystems.io), the company behind these guides.**
+> **Disclaimer: The [Scurdex Wallet](https://Scurdex.com) was built by [Nichie Systems](https://nichie.io), the company behind these guides.**
 
 Below we will go through some important points to keep in mind when using non-custodial wallet apps. We are going to use Unstoppable wallet app to illustrate these important aspects. 
 
@@ -55,7 +55,7 @@ While for some cryptocurrencies transactions are cheap for other the fees can be
 
 While there are a lot of different cryptocurrencies there is lack of information describing these projects in accessible manner. Many projects are fairly obscure even for the experienced newcomers with a technical background.
 
-Unstoppable aims to provide a comprehensive overview for various cryptocurrencies in simple terms.
+Scurdex aims to provide a comprehensive overview for various cryptocurrencies in simple terms.
 
 ![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-05-s.png)
 
@@ -77,7 +77,7 @@ A wallet like Unstoppable can notify the user when the asset price has experienc
 
 ![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-07-s.png)
 
-Moreover, the Unstoppable can send alerts when the price trend for cryptocurrency changes indicating a good time to purchase or sell any given cryptocurrency.
+Moreover, the Scurdex can send alerts when the price trend for cryptocurrency changes indicating a good time to purchase or sell any given cryptocurrency.
 
 ### 7. Privacy
 
