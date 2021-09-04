@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-main-l.png)
+![](**https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-main-l.png)
 
 # Scurdex Wallet
 
@@ -22,7 +22,7 @@ Below we will go through some important points to keep in mind when using non-cu
 
 Every non-custodial wallet starts either with the process of a wallet setup or migration of the existing wallet.
 
-![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-02-s.png)
+![portrait](https://github.com/nichiesystems/blockchain-crypto-guides/tree/main/fundamentals/images/05-02-s.png)
 
 - The 'Create Wallet' button generates a new private key and shows it in a form of 12 words which needs to be backed up.
 - The 'Restore Wallet' option restores an existing wallet that might have been created earlier in Unstoppable or some other standard compliant wallet. 
@@ -33,7 +33,7 @@ Keep in mind that non-custodial wallets will require anywhere from a few minutes
 
 It's important for any non-custodial wallet app to come with inbuilt unauthorized access measures. Both mobile and hardware wallets implement that in a form of unlock code which is required in order to access the wallet.
 
-![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-03-s.png)
+![portrait](https://github.com/nichiesystems/blockchain-crypto-guides/tree/main/fundamentals/images/05-03-s.png)
 
 This measure is essential to keep your funds safe even when an unauthorized entity gets your wallet device.
 
