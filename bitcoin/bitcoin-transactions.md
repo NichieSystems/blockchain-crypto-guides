@@ -88,5 +88,5 @@ While Lisa’s wallet can potentially see the transaction within seconds after B
 
 In about 10 minutes, the transaction moves to the blockchain and Lisa’s wallet will display the amount in the available balance. 
 
-For some wallets, like Unstoppable, the threshold for this is 30 minutes. In other words, some wallets consider the transaction final after 3-6 new blocks have been added to the blockchain.
+For some wallets, like Scurdex, the threshold for this is 30 minutes. In other words, some wallets consider the transaction final after 3-6 new blocks have been added to the blockchain.
 
