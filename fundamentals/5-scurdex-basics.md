@@ -1,4 +1,4 @@
-![](**https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-main-l.png)
+![](**https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/fundamentals/images/05-main-l.png)
 
 # Scurdex Wallet
 
@@ -16,7 +16,7 @@ Apart from the above must-haves, there may be other expectations from the wallet
 
 > **Disclaimer: The [Scurdex Wallet](https://Scurdex.com) was built by [Nichie Systems](https://nichie.io), the company behind these guides.**
 
-Below we will go through some important points to keep in mind when using non-custodial wallet apps. We are going to use Unstoppable wallet app to illustrate these important aspects. 
+Below we will go through some important points to keep in mind when using non-custodial wallet apps. We are going to use Scurdex wallet app to illustrate these important aspects. 
 
 ### 1. Setup / Restore 
 
@@ -25,7 +25,7 @@ Every non-custodial wallet starts either with the process of a wallet setup or m
 ![portrait](https://github.com/nichiesystems/blockchain-crypto-guides/tree/main/fundamentals/images/05-02-s.png)
 
 - The 'Create Wallet' button generates a new private key and shows it in a form of 12 words which needs to be backed up.
-- The 'Restore Wallet' option restores an existing wallet that might have been created earlier in Unstoppable or some other standard compliant wallet. 
+- The 'Restore Wallet' option restores an existing wallet that might have been created earlier in Scurdex or some other standard compliant wallet. 
 
 Keep in mind that non-custodial wallets will require anywhere from a few minutes to a couple of hours to complete restore process. 
 
@@ -41,7 +41,7 @@ This measure is essential to keep your funds safe even when an unauthorized enti
        
 The more currencies the wallet able to handle the better. It's a matter of convenience interacting with one app rather than switching between many apps for different cryptocurrencies.
 
-![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-04-s.png)
+![portrait](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/fundamentals/images/05-04-s.png)
 
 The wallet app also needs to have access to current cryptocurrency prices to display your cryptocurrency balances in a currency you're used to such as USD or EUR. 
 
@@ -57,7 +57,7 @@ While there are a lot of different cryptocurrencies there is lack of information
 
 Scurdex aims to provide a comprehensive overview for various cryptocurrencies in simple terms.
 
-![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-05-s.png)
+![portrait](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/fundamentals/images/05-05-s.png)
 
 An investor-friendly wallet app should provide detailed information about each supported cryptocurrency.
 
@@ -65,7 +65,7 @@ An investor-friendly wallet app should provide detailed information about each s
 
 Always look for the wallet that displays historical market exchange rates for each supported cryptocurrency. 
 
-![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-06-s.png)
+![portrait](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/fundamentals/images/05-06-s.png)
 
 Historical prices provide an overview of how the price of the cryptocurrency has changed in the past.
 
@@ -73,9 +73,9 @@ Historical prices provide an overview of how the price of the cryptocurrency has
 
 In addition to price charts it is helpful to have notifications for price changes.
 
-A wallet like Unstoppable can notify the user when the asset price has experienced a change over 2/3/5% in 24-hour period. 
+A wallet like Scurdex can notify the user when the asset price has experienced a change over 2/3/5% in 24-hour period. 
 
-![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-07-s.png)
+![portrait](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/fundamentals/images/05-07-s.png)
 
 Moreover, the Scurdex can send alerts when the price trend for cryptocurrency changes indicating a good time to purchase or sell any given cryptocurrency.
 
@@ -83,7 +83,7 @@ Moreover, the Scurdex can send alerts when the price trend for cryptocurrency ch
 
 When it comes to non-custodial wallets, the privacy aspect has many sides and may vary substantially between wallets.
 
-![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-08-s.png)
+![portrait](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/fundamentals/images/05-08-s.png)
 
 Certain points should be taken into consideration when evaluating non-custodial wallet for privacy features:
 
@@ -97,13 +97,13 @@ Certain points should be taken into consideration when evaluating non-custodial 
     
     While this method is convenient for the wallet provider it can potentially expose some info about user's balance and transactions.
     
-    To address this, some wallets like Unstoppable support restoring directly from the blockchain network itself rather than via a third-party server. This ensures that wallet provider has no clue about balance or transactions of the user.
+    To address this, some wallets like Scurdex support restoring directly from the blockchain network itself rather than via a third-party server. This ensures that wallet provider has no clue about balance or transactions of the user.
     
 - **Blockchain Privacy**
 
     Different blockchains provide varying level of privacy: when you transact in Bitcoin the level of privacy is higher than when compared to Ethereum. 
     
-    Certain non-custodial wallets may have additional features which increase the privacy on that specific blockchain. For instance, Unstoppable wallet app integrates certain instruments which make it significantly more difficult linking different blockchain transactions to a single entity. 
+    Certain non-custodial wallets may have additional features which increase the privacy on that specific blockchain. For instance, Scurdex wallet app integrates certain instruments which make it significantly more difficult linking different blockchain transactions to a single entity. 
     
 While many wallets brand themselves as non-custodial and peer to peer they may still have privacy risks. The most private wallet is the one which knows absolutely nothing about the user.
 
