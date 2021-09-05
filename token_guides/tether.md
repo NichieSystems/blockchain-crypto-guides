@@ -1,4 +1,4 @@
-![landscape](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/usdt-Main-l.png)
+![landscape](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/token_guides/images/usdt-Main-l.png)
 
 # Tether in Simple Terms
 
@@ -16,9 +16,9 @@ There are over 5.5 billion Tether USDT tokens issued via its [smart contract](ht
 
 Tether tokens are primarily used by cryptocurrency traders to avoid volatility by on-demand converting crypto holdings to Tether. Given its highly liquid nature across a number of cryptocurrency exchanges there is an element of convenience to this.
 
-![landscape](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/usdt-Exchange-l.png)
+![landscape](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/token_guides/images/usdt-Exchange-l.png)
 
-For individuals Tether opens up ways for anyone to store assets in USD equivalent on exchanges or ([non-custodial wallet](/fundamentals/2-wallets-basics.md) like Unstoppable) without the need to have a bank account.
+For individuals Tether opens up ways for anyone to store assets in USD equivalent on exchanges or ([non-custodial wallet](/fundamentals/2-wallets-basics.md) like Scurdex) without the need to have a bank account.
 
 For cryptocurrency exchanges Tether provides means to enable cryptocurrency-to-fiat trading without using legacy banking and payment providers which are currently heavily regulated and just plain slow. 
 
@@ -26,7 +26,7 @@ For cryptocurrency exchanges Tether provides means to enable cryptocurrency-to-f
 
 Tether tokens in circulation exist as cryptocurrency tokens (primarily on Ethereum blockchain). Being a token on Ethereum blockchain, Tether adopts some benefits of Ethereum-based cryptocurrency allowing parties to transact with each other pseudo anonymously. 
 
-Any individual accepting Tether tokens as payment may potentially do so without knowing the identity of the sender. The sender only needs a [crypto wallet](https://unstoppable.money) that supports sending and receiving of Tether tokens.
+Any individual accepting Tether tokens as payment may potentially do so without knowing the identity of the sender. The sender only needs a [crypto wallet](https://scurdex.com) that supports sending and receiving of Tether tokens.
 
 Tether tokens may be purchased directly from the [Tether’s website](https://tether.to) or on [cryptocurrency exchanges](/fundamentals/6-buying-cryptocurrency-basics.md) using fiat money (USD, EUR etc) or other cryptocurrency like Bitcoin. In the same manner, users may redeem Tether tokens into fiat currency by selling them on crypto exchanges or via Tether's website. 
 
@@ -40,7 +40,7 @@ In essence, Tether (USDT) is what is known as a centralized stablecoin, which un
 
 This distinction represents the core element when it comes to the risk assessment and reliability of holding Tether tokens.
 
-![landscape](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/usdt-equaldollar-l.png)
+![landscape](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/token_guides/images/usdt-equaldollar-l.png)
 
 The term ‘trustless’ is usually associated with cryptocurrency where the pre-programmed unchangeable rules guarantee that things work as expected without the need of trusting any entity. In that regard, good examples of trustless cryptocurrencies are [Bitcoin](/token_guides/bitcoin.md), [Ethereum](/token_guides/ethereum.md), or [DAI stablecoin](/token_guides/makerdao.md).
 
