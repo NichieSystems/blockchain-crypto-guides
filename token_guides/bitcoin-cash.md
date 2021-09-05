@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/bch-Main-l.png)
+![](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/token_guides/images/bch-Main-l.png)
 
 # Bitcoin Cash In Simple Terms
 
@@ -50,7 +50,7 @@ As cryptocurrencies are open-source and no entity has exclusive rights ove the c
 
 The term fork is a technical term in software engineering and used to describe the process of deriving one software product from another.
 
-![](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/bch-fork-l.png)
+![](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/token_guides/images/bch-fork-l.png)
 
 Forks may occur when the community members are not able to agree on the way forward. It provides a natural dispute resolution mechanism by allowing the conflicting parties to split and continue with a distinct vision.
 
@@ -130,7 +130,7 @@ However, taking into account different direction of the engineering efforts on b
 
 As a result of the increased block size and post-fork blockchain code changes, the Bitcoin Cash blockchain got some significant differences.
 
-![](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/bch-highlights-l.png)
+![](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/token_guides/images/bch-highlights-l.png)
 
 - **Instant Confirmation**
 
@@ -180,7 +180,7 @@ When you're ready to get involved with the Bitcoin Cash on a practical level you
 2. [Wallet Basics](/fundamentals/2-wallets-basics.md)
 3. [Private Keys Explained](/fundamentals/3-private-keys-basics.md)
 4. [Safe Storage Tips](/fundamentals/4-safe-storage-basics.md)
-5. [Unstoppable Wallet](/fundamentals/5-unstoppable-basics.md)
+5. [Scurdex Wallet](/fundamentals/5-scurdex-basics.md)
 6. [Buying Cryptocurrency](/fundamentals/6-buying-cryptocurrency-basics.md)
 7. [Spending Cryptocurrency](/fundamentals/7-spending-cryptocurrency.md)
 8. [Transactions Explained](/fundamentals/8-transactions-basics.md)
