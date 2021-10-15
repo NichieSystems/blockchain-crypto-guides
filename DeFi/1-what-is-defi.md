@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/fundamentals/images/010-main-l.png)
+![](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/main/fundamentals/images/010-main-l.png)
 
 # What Is DeFi
 
