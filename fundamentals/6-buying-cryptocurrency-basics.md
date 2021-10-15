@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/master/fundamentals/images/06-main-l.png)
+![](https://raw.githubusercontent.com/nichiesystems/blockchain-crypto-guides/main/fundamentals/images/06-main-l.png)
 
 # Buying Cryptocurrency
 
@@ -98,6 +98,7 @@ Decentralized Exchanges:
 
 - [https://kyberswap.com](https://kyberswap.com)
 - [https://uniswap.exchange](https://uniswap.exchange/swap)
+- [https://scurdex.com](https://scurdex.com)
 
 Expect to encounter following issues on most decentralized exchanges:
 
@@ -108,4 +109,8 @@ Expect to encounter following issues on most decentralized exchanges:
 
 Such exchanges usually do not require account verification of any kind. There are no limitations in the amount that can be sold or purchased. Generally no data collected about the user.
 
-At this point in time it's fairly difficult for a beginner level user to participate in those.
+At this point in time it's fairly difficult for a beginner level user(and some experienced traders) to participate in those. However, [https://scurdex.com](https://scurdex.com) completely eliminate all the challenges of trading on decentralized exchange. It supports Ethereum, Bitcoin and Binance Smart Chain. Over two thousand coins and tokens from about twenty blockchains are available for trading. Users can buy crypto with fiat(Visa, Mastercard and America Experess) through the scurdex.com website and instantly sent to provided wallet address from the Scurdex wallet. 
+
+Scurdex supports unlimited liquidity from UNISWAP for Ethereum tokens and PancakeSwap for Binance Smart Chain tokens in addition to 1INCH which is a DEX aggregator of Ethereum(UniSwap, Curve, and SushiSwap), BSC(PancakeSwap, BakerySwap and AcrypToS), Polygon(SushiSwap, Curve and Matic), Optimism(Synthetix and Uniswap) and Abitrum(1Inch LOP, Uniswap and Balancer). All trade request execution are instant without delay.
+
+Scurdex wallet has one of the best UI/UX. It is intuitive and fast. 
