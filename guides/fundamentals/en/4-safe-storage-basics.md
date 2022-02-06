@@ -55,7 +55,7 @@ Both companies have a wide range of products to choose from. It's important to b
 
 ### 2. Mobile Wallets
 
-The mobile based wallets for iOS and Android are the most common type of non-custodial wallet apps. These wallets are generally more user-friendly. Our very own [Unstoppable Wallet](https://unstoppable.money) is such a wallet.
+The mobile based wallets for iOS and Android are the most common type of non-custodial wallet apps. These wallets are generally more user-friendly. Our very own [Scurdex Wallet](https://scurdex.com) is such a wallet.
 
 From security point of view, the hardware wallet considered more secure than a mobile wallet.
 

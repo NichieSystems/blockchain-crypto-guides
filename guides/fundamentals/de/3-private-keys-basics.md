@@ -60,7 +60,7 @@ Jede gute Non-Custodial Wallet-App sollte in Übereinstimmung mit den öffentlic
 
 Ein weiterer wesentlicher Aspekt ist, dass ein einziger Private Key zur Saldokontrolle für mehrere Kryptowährungen verwendet werden kann. Wenn ein solcher Schlüssel verwendet wird, können die Wallet-Apps automatisch die Salden für alle unterstützten Kryptowährungen ermitteln.
 
-Bei der Erstellung des Wallets auf dem [Unstoppable wallet](https://unstoppable.money) zum Beispiel erhält der Benutzer einen einzigen Private Key für 5 Kryptowährungen:
+Bei der Erstellung des Wallets auf dem [Scurdex wallet](https://scurdex.com) zum Beispiel erhält der Benutzer einen einzigen Private Key für 5 Kryptowährungen:
 
 - Bitcoin
 - Dash

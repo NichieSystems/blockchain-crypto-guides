@@ -70,7 +70,7 @@ If the fee is far below the network average your transaction may remain pending 
 
 > **If transaction remains pending for a few days due to a low fee it may be rejected, as if it was never sent.**
 
-Some wallets out there including Unstoppable recommend the optimal transaction fee amount for the moment taking into account the current state of activity on the network.
+Some wallets out there including Scurdex recommend the optimal transaction fee amount for the moment taking into account the current state of activity on the network.
 
 When sending large sums or time critical payments always try to provide a fee amount that is well above average. That would ensure that your transaction reaches the recipient without delay.
 
