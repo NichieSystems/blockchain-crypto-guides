@@ -139,33 +139,33 @@
       },
       {
         "en": {
-          "title": "Unstoppable Intro",
+          "title": "Scurdex Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
-          "file": "guides/fundamentals/en/5-unstoppable-basics.md",
+          "file": "guides/fundamentals/en/5-scurdex-basics.md",
           "updated_at": "2020-06-01"
         },
         "ru": {
-          "title": "Unstoppable Кошелек",
+          "title": "Scurdex Кошелек",
           "image": "guides/fundamentals/images/05-main-l.png",
-          "file": "guides/fundamentals/ru/5-unstoppable-basics.md",
+          "file": "guides/fundamentals/ru/5-scurdex-basics.md",
           "updated_at": "2020-06-01"
         },
         "fr": {
-          "title": "Intro Unstoppable",
+          "title": "Intro Scurdex",
           "image": "guides/fundamentals/images/05-main-l.png",
-          "file": "guides/fundamentals/fr/5-unstoppable-basics.md",
+          "file": "guides/fundamentals/fr/5-scurdex-basics.md",
           "updated_at": "2020-06-01"
         },
         "de": {
-          "title": "Unstoppable Intro",
+          "title": "Scurdex Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
-          "file": "guides/fundamentals/de/5-unstoppable-basics.md",
+          "file": "guides/fundamentals/de/5-scurdex-basics.md",
           "updated_at": "2020-06-01"
         },
         "fa": {
-          "title": "Unstoppable Intro",
+          "title": "Scurdex Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
-          "file": "guides/fundamentals/fa/5-unstoppable-basics.md",
+          "file": "guides/fundamentals/fa/5-scurdex-basics.md",
           "updated_at": "2020-06-01"
         }
       },
