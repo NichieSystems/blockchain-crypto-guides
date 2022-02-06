@@ -14,7 +14,7 @@ Du point de vue de l'utilisateur, les attentes de base de toute application de c
 
 Outre les incontournables mentionnés ci-dessus, il peut y avoir d'autres exigences à l'égard du portefeuille selon l'utilisateur cible. Une personne qui cherche à préserver sa vie privée peut avoir besoin de fonctionnalités privatives supplémentaires qui ne sont pas disponibles dans la plupart des applications de portefeuille.
 
-> **Avertissement: [Scurdex Wallet](https://scurdex.com) a été conçu par [Horizontal Systems](https://horizontalsystems.io), la société à l'origine de ces guides.**
+> **Avertissement: [Scurdex Wallet](https://scurdex.com) a été conçu par [Nichie Systems](https://nichie.io), la société à l'origine de ces guides.**
 
 Dans les pages qui suivent, nous allons passer en revue quelques points importants à garder en tête lorsque l'on utilise des applications de portefeuille non-privatives de liberté. Nous allons utiliser l'application Scurdex Wallet pour illustrer ces aspects importants.
 
