@@ -60,7 +60,7 @@ Any good non-custodial wallet app should be engineered in accordance with the pu
 
 Another essential aspect, a single private key can be used to control balances for multiple cryptocurrencies. When using such key the wallet apps can automatically locate the balances for all supported cryptocurrencies.
 
-For instance, when creating the wallet on [Unstoppable wallet](https://unstoppable.money) the user gets a single private key for all cryptocurrencies supported by a wallet.
+For instance, when creating the wallet on [Scurdex wallet](https://scurdex.com) the user gets a single private key for all cryptocurrencies supported by a wallet.
 
 The same private key used to control multiple cryptocurrencies, each with its own balance and transactions.
 
