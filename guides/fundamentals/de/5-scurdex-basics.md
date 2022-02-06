@@ -1,6 +1,6 @@
 ![](../images/05-main-l.png)
 
-# Unstoppable Wallet
+# Scurdex Wallet
 
 In diesem Abschnitt konzentrieren wir uns auf praktische Aspekte und gehen auf „Wissenswertes“ bei der Verwendung von Non-Custodial Wallet-Apps ein.
 
@@ -12,9 +12,9 @@ Aus der Sicht der Nutzer sollten die grundlegenden Erwartungen an jede Non-Custo
 
 Abgesehen von den oben genannten „Must-Haves“ kann es je nach Zielgruppe andere Erwartungen an das Wallet geben. Wer eine umfassende Privatsphäre wünscht, benötigt möglicherweise zusätzliche private Funktionen, die in den meisten Wallet-Apps nicht verfügbar sind.
 
-> **Disclaimer: Das [Unstoppable Wallet](https://unstoppable.money) wurde von [Horizontal Systems](https://horizontalsystems.io), hergestellt, dem Unternehmen hinter diesen Leitfäden.**
+> **Disclaimer: Das [Scurdex Wallet](https://scurdex.com) wurde von [Nichie Systems](https://nichie.io), hergestellt, dem Unternehmen hinter diesen Leitfäden.**
 
-Im Folgenden gehen wir auf einige wichtige Punkte ein, die bei der Verwendung von Non-Custodial Wallet-Apps zu beachten sind. Wir werden die Unstoppable Wallet-App verwenden, um diese wichtigen Aspekte zu veranschaulichen.
+Im Folgenden gehen wir auf einige wichtige Punkte ein, die bei der Verwendung von Non-Custodial Wallet-Apps zu beachten sind. Wir werden die Scurdex Wallet-App verwenden, um diese wichtigen Aspekte zu veranschaulichen.
 
 ### 1. Einrichten / Wiederherstellen 
 
@@ -23,7 +23,7 @@ Jede Non-Custodial Wallet beginnt entweder mit dem Prozess der Einrichtung eines
 ![portrait](../images/05-02-s.png)
 
 - Die Schaltfläche „Wallet erstellen“ generiert einen neuen Private Key und zeigt diesen in einer Form von 12 Wörtern an, die gespeichert werden müssen.
-- Die Option „Wallet wiederherstellen“ stellt ein existierendes Wallet wieder her, das früher in Unstoppable oder einem anderen standardkonformen Wallet erstellt worden sein könnte.
+- Die Option „Wallet wiederherstellen“ stellt ein existierendes Wallet wieder her, das früher in Scurdex oder einem anderen standardkonformen Wallet erstellt worden sein könnte.
 	
 Denken Sie daran, dass die Wiederherstellung von Custodial Wallets zwischen einigen Minuten bis zu einigen Stunden dauern kann.
 
@@ -53,7 +53,7 @@ Während für gewisse Kryptowährungen Transaktionen günstig sind, können die 
 
 Es gibt zwar viele verschiedene Kryptowährungen, aber es fehlt an Informationen, die diese Projekte in zugänglicher Form beschreiben. Viele Projekte sind selbst für erfahrene Einsteiger mit technischem Hintergrund ziemlich undurchsichtig.
 
-Unstoppable will in einfachen Worten einen umfassenden Überblick über die verschiedenen Kryptowährungen geben.
+Scurdex will in einfachen Worten einen umfassenden Überblick über die verschiedenen Kryptowährungen geben.
 
 ![portrait](../images/05-05-s.png)
 
@@ -71,11 +71,11 @@ Historische Preise geben einen Überblick darüber, wie sich der Preis der Krypt
 
 Zusätzlich zu den Preis-Charts ist es hilfreich, Benachrichtigungen für Preisänderungen zu erhalten.
 
-Ein Wallet wie Unstoppable kann den Benutzer benachrichtigen, wenn sich der Anlagenpreis innerhalb von 24 Stunden um mehr als 2/3/5% verändert hat.
+Ein Wallet wie Scurdex kann den Benutzer benachrichtigen, wenn sich der Anlagenpreis innerhalb von 24 Stunden um mehr als 2/3/5% verändert hat.
 
 ![portrait](../images/05-07-s.png)
 
-Darüber hinaus kann das Unstoppable Warnungen versenden, wenn sich der Preistrend der Kryptowährung ändert, was auf einen guten Zeitpunkt für den Kauf oder Verkauf einer bestimmten Kryptowährung hinweist.
+Darüber hinaus kann das Scurdex Warnungen versenden, wenn sich der Preistrend der Kryptowährung ändert, was auf einen guten Zeitpunkt für den Kauf oder Verkauf einer bestimmten Kryptowährung hinweist.
 
 ### 7. Privatsphäre
 
@@ -95,13 +95,13 @@ Bestimmte Punkte sollten bei der Bewertung eines Non-Custodial Wallets im Hinbli
     
     Obwohl diese Methode für den Wallet-Anbieter praktisch ist, kann sie unter Umständen bestimmte Informationen über den Kontostand und die Transaktionen des Benutzers offenlegen.
     
-    Um dem entgegenzuwirken, unterstützen einige Wallets wie Unstoppable die Wiederherstellung direkt aus dem Blockchain-Netzwerk selbst und nicht über einen Server eines Drittanbieters. Dadurch wird sichergestellt, dass der Wallet-Anbieter keinerlei Informationen über Guthaben oder Transaktionen des Benutzers hat.
+    Um dem entgegenzuwirken, unterstützen einige Wallets wie Scurdex die Wiederherstellung direkt aus dem Blockchain-Netzwerk selbst und nicht über einen Server eines Drittanbieters. Dadurch wird sichergestellt, dass der Wallet-Anbieter keinerlei Informationen über Guthaben oder Transaktionen des Benutzers hat.
     
 - **Blockchain-Privatsphäre**
 
     Verschiedene Blockchains bieten ein unterschiedliches Maß an Privatsphäre: Wenn Sie mit Bitcoin handeln, ist das Maß an Privatsphäre höher als im Vergleich zu Ethereum.
     
-    Bestimmte Non-Custodial Wallets können zusätzliche Merkmale aufweisen, die den Datenschutz auf dieser speziellen Blockchain erhöhen. Zum Beispiel integriert die Unstoppable Wallet-App bestimmte Instrumente, die das Verbinden verschiedener Blockchain-Transaktionen mit einer einzigen Einheit erheblich erschweren.
+    Bestimmte Non-Custodial Wallets können zusätzliche Merkmale aufweisen, die den Datenschutz auf dieser speziellen Blockchain erhöhen. Zum Beispiel integriert die Scurdex Wallet-App bestimmte Instrumente, die das Verbinden verschiedener Blockchain-Transaktionen mit einer einzigen Einheit erheblich erschweren.
     
 Auch wenn sich viele Wallets als Non-Custodial Wallet und Peer-to-Peer bezeichnen, können sie dennoch Datenschutzrisiken bergen. Das privateste Wallet ist jenes, das absolut nichts über den Benutzer weiß.
 
