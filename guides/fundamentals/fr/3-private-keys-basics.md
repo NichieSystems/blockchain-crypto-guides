@@ -60,7 +60,7 @@ Toute bonne application portefeuille non privative doit être conçue en conform
 
 Autre aspect essentiel, une seule clé privée peut être utilisée pour contrôler les soldes de plusieurs crypto-monnaies. En utilisant une telle clé, les applications portefeuille peuvent automatiquement localiser les soldes pour toutes les crypto-monnaies prises en charge.
 
-Par exemple, lors de la création du portefeuille avec [Unstoppable wallet](https://unstoppable.money) l'utilisateur obtient une seule clé privée pour 5 crypto-monnaies:
+Par exemple, lors de la création du portefeuille avec [Scurdex wallet](https://scurdex.com) l'utilisateur obtient une seule clé privée pour 5 crypto-monnaies:
 
 - Bitcoin
 - Dash
