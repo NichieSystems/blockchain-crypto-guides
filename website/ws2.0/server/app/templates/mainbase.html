@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Microfinance, Cryptocurrency DEX & Forex Auction </title>
+	<meta charset="UTF-8">
+	<meta name="description" content="SCurDEX Landing Page">
+	<meta name="keywords" content="cryptocurrency, stock, fiat, dollar, ether">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}" type="image/x-icon"/> 
+	<link rel="icon" href="{{ url_for('static', filename='img/favicon.ico') }}" type="image/x-icon"/>
+
+	<!-- Google Fonts -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato"/>
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.min.css') }}"/>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/themify-icons.css') }}"/>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/animate.css') }}"/>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/owl.carousel.css') }}"/>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+
+    <script src="https://cdn.jsdelivr.net/npm/@ramp-network/ramp-instant-sdk@2.3.0/dist/ramp-instant-sdk.umd.js" integrity="sha256-heFylj/fcCZffQpQuqUmrk1e08vdaGcpw0w9mWGnbz4=" crossorigin="anonymous"></script>
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+
+	<!-- Header section -->
+	<header class="header-section clearfix">
+		<div class="container-fluid">
+			<!--<a href="index.html" class="site-logo">-->
+			<a href="{{ url_for('main.index') }}" class="site-logo">
+				<img src="img/scurdex_logo_72px.svg" alt="">
+			</a>
+			<div class="responsive-bar"><i class="fa fa-bars"></i></div>
+			<a href="" class="user"><i class="fa fa-user"></i></a>
+			<a href="" class="site-btn">Sign Up Free</a>
+			<nav class="main-menu">
+				<ul class="menu-list"> 				    
+					<!--<li><a href="about.html">About Us</a></li> -->								
+					<!--<li><a href="blog.html">Blog</a></li> -->
+					<!--<li><a href="contact.html">Contact Us</a></li> -->
+					<!--<li><a href=""  style="font-size: 25px">Buy Ether</a></li> -->
+					<!--<li><a href="https://buy.ramp.network/?userAddress=user blockchain address"  style="color:black; font-size: 20px">Buy Ether</a></li> -->					
+					<li><a href="" style="font-size: 20px">Order Terminal</a></li>
+					<li><a href="{{ url_for('static', filename='pdf/scurdexpd.pdf') }}" style="font-size: 20px">Pitch Deck</a></li>
+					<li><a href="{{ url_for('blog') }}" style="font-size: 20px">Blog</a></li>									
+					<li><a href="{{ url_for('contact.contact_us') }}" style="font-size: 20px">Contact Us</a></li>
+					<li><a href="" style="font-size: 20px">Login</a></li>					
+				</ul>
+			</nav>
+		</div>
+	</header>
+	<!-- Header section end -->
+    
+    <!-- Hero section -->
+	<section class="hero-section spad gradient-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-5 hero-text">
+				    <!--<h3 style="color:white"><small>This website is under development </small></h3>
+					<h2>Welcome to <span>Scurdex</span> </h2>
+					<p style="color:black; font-size: 30px">Dear Samson</p>
+					<h2 style="color:black">Thank You</h2>					
+					<p style="color:black; font-size: 20px">Decentralized Exchange For - Cryptocurrency Trade & Investment | Forex, Stocks & Bonds Auctions | Micropayment with Blockchain-enabled PoS </p>
+					-->
+					
+				</div>
+				<div class="col-md-6">
+					<!--<img src="img/laptop.png" class="laptop-image" alt=""> -->
+					<!--<div style="height:560px; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; border: 1px solid #56667F; border-radius: 4px; text-align: right; line-height:14px; font-size: 12px; font-feature-settings: normal; text-size-adjust: 100%; box-shadow: inset 0 -20px 0 0 #56667F;padding:1px;padding: 0px; margin: 0px; width: 100%;"><div style="height:540px; padding:0px; margin:0px; width: 100%;"><iframe src="https://widget.coinlib.io/widget?type=chart&theme=light&coin_id=145&pref_coin_id=1505" width="100%" height="536px" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0" border="0" style="border:0;margin:0;padding:0;line-height:14px;"></iframe></div><div style="color: #FFFFFF; line-height: 14px; font-weight: 400; font-size: 11px; box-sizing: border-box; padding: 2px 6px; width: 100%; font-family: Verdana, Tahoma, Arial, sans-serif;"><a href="https://coinlib.io" target="_blank" style="font-weight: 500; color: #FFFFFF; text-decoration:none; font-size:11px">Cryptocurrency Prices</a>&nbsp;by Coinlib</div></div>-->
+					<!-- TradingView Widget BEGIN -->                    
+                    
+				</div>				
+			</div>
+			<br>
+			<div>
+				<!--<div style="height:62px; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; border: 1px solid #56667F; border-radius: 4px; text-align: right; line-height:14px; block-size:62px; font-size: 12px; font-feature-settings: normal; text-size-adjust: 100%; box-shadow: inset 0 -20px 0 0 #56667F;padding:1px;padding: 0px; margin: 0px; width: 100%;"><div style="height:40px; padding:0px; margin:0px; width: 100%;"><iframe src="https://widget.coinlib.io/widget?type=horizontal_v2&theme=light&pref_coin_id=1505&invert_hover=yes" width="100%" height="36px" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0" border="0" style="border:0;margin:0;padding:0;"></iframe></div><div style="color: #FFFFFF; line-height: 14px; font-weight: 400; font-size: 11px; box-sizing: border-box; padding: 2px 6px; width: 100%; font-family: Verdana, Tahoma, Arial, sans-serif;"><a href="https://coinlib.io" target="_blank" style="font-weight: 500; color: #FFFFFF; text-decoration:none; font-size:11px">Cryptocurrency Prices</a>&nbsp;by Coinlib</div></div> -->
+			</div>
+		</div>
+	</section>
+	<!-- Hero section end -->
+
+
+
+
+	<!-- Footer section -->
+	<footer class="footer-section">
+		<div class="container">
+			<div class="row spad">
+				<div class="col-md-6 col-lg-3 footer-widget">
+					<img src="{{ url_for('static', filename='img/scurdex_logo_72px.svg') }}" class="mb-4" alt="">
+					<p>A Fully Decentralized Exchange for 105+ Cryptocurrency, Foreign Exchange, Stocks and Bonds. You can also get various microfinancial services like insurance, payment, etc</p>					
+				</div>
+				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
+					<h5 class="widget-title" style="color:black;">Quick Links</h5>
+					<ul>
+						<li><a href="#">Funding Account</a></li>
+						<li><a href="#">Merchant Onboarding</a></li>
+						<li><a href="#">Payment Methods</a></li>
+						<li><a href="#">Trading Currencies</a></li>
+						<li><a href="#">Wallet User Guides</a></li>
+					</ul>
+				</div>
+				<div class="col-md-6 col-lg-2 offset-lg-1 footer-widget">
+					<h5 class="widget-title" style="color:black;">Resources</h5>
+					<ul>
+						<li><a href="#">Stock Markets</a></li>
+						<li><a href="{{ url_for('static', filename='pdf/fintech.pdf') }}">FinTech Outlook</a></li>
+						<li><a href="{{ url_for('static', filename='pdf/regulation.pdf') }}">Crypto Regulations</a></li>
+						<li><a href="#">FOREX Markets</a></li>
+						<li><a href="#">Bonds Markets</a></li>
+					</ul>
+				</div>
+				<div class="col-md-6 col-lg-3 footer-widget pl-lg-5 pl-3">
+					<h5 id="contactus" class="widget-title" style="color:black;">Follow Us</h5>
+					<div class="social">
+						<a href="https://facebook.com/scurdex" class="facebook"><i class="fa fa-facebook"></i></a>						
+						<!--<a href="" class="instagram"><i class="fa fa-instagram"></i></a>-->
+						<a href="https://twitter.com/scur_dex" class="twitter"><i class="fa fa-twitter"></i></a>
+						<a href="https://t.me/scurdex" class="twitter"><i class="fa fa-telegram"></i></a>
+						<!--<a href="" class="twitter"><i class="fa fa-youtube"></i></a>-->
+					</div>
+				</div>
+			</div>
+			<div class="footer-bottom">
+				<div class="row">
+					<div class="col-lg-4 store-links text-center text-lg-left pb-3 pb-lg-0">
+						<a href="https://play.google.com/store/apps/details?id=com.nichie.curdex"><img src="img/playstore.png" alt=""  class="mr-3"></a>
+						<!--<a href=""><img src="img/appstore.png" alt=""></a> -->						
+					</div>
+					<div class="col-lg-8 text-center text-lg-right">
+						<ul class="footer-nav">
+							<li><a href="">DPA</a></li>
+							<li><a href="{{ url_for('static', filename='pdf/tac.pdf') }}">Terms of Service</a></li>
+							<li><a href="{{ url_for('static', filename='pdf/privacy.pdf') }}">Privacy Policy </a></li>
+							<li><a href="">support@scurdex.com</a></li>
+							<!--<li><a href="">+1(504)503-3360</a></li>
+							<li><a href="">+234(708)999-7878</a></li>-->
+						</ul>
+						<span>
+							<a href="https://www.scurdex.com" target="_blank" style="color:black;">Copyright &copy;<script>document.write(new Date().getFullYear());</script> All Rights Reserved</a>							
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<!--====== Javascripts & Jquery ======-->
+	<script src="{{ url_for('static', filename='js/jquery-3.2.1.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/owl.carousel.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+	<script type="application/javascript" src="{{ url_for('static', filename='js/buycrypto.js') }}"></script>
+</body>
+</html>
