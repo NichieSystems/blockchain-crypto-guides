@@ -10,7 +10,7 @@ Let's go over tools and know-how needed to get you started on a practical level.
 
 - A single DeFi service can have multiple websites/apps depending on its popularity. Since smart contracts reside on always-online blockchain anyone can build a graphical gateway to them in a form of a website or a mobile app.
 
-- DeFi services require user to connect to the service using a [non-custodial](../../fundamentals/en/2-wallets-basics.md) cryptocurrency wallet like Unstoppable. The wallet is your way to authenticate and connect to the smart contract.
+- DeFi services require user to connect to the service using a [non-custodial](../../fundamentals/en/2-wallets-basics.md) cryptocurrency wallet like Scurdex. The wallet is your way to authenticate and connect to the smart contract.
 
 ## Getting Started
 
