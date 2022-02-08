@@ -28,7 +28,7 @@ For cryptocurrency exchanges Tether provides means to enable cryptocurrency-to-f
 
 Tether tokens in circulation exist as cryptocurrency tokens (primarily on Ethereum blockchain). Being a token on Ethereum blockchain, Tether adopts some benefits of Ethereum-based cryptocurrency allowing parties to transact with each other pseudo anonymously. 
 
-Any individual accepting Tether tokens as payment may potentially do so without knowing the identity of the sender. The sender only needs a [crypto wallet](https://unstoppable.money) that supports sending and receiving of Tether tokens.
+Any individual accepting Tether tokens as payment may potentially do so without knowing the identity of the sender. The sender only needs a [crypto wallet](https://scurdex.com) that supports sending and receiving of Tether tokens.
 
 Tether tokens may be purchased directly from the [Tether’s website](https://tether.to) or on [cryptocurrency exchanges](../../fundamentals/en/6-buying-cryptocurrency-basics.md) using fiat money (USD, EUR etc) or other cryptocurrency like Bitcoin. In the same manner, users may redeem Tether tokens into fiat currency by selling them on crypto exchanges or via Tether's website. 
 
