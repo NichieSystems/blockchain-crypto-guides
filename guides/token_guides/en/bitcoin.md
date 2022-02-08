@@ -229,7 +229,7 @@ When you're ready to get involved with the Bitcoin on a practical level you're w
 2. [Wallet Basics](../../fundamentals/en/2-wallets-basics.md)
 3. [Private Keys Explained](../../fundamentals/en/3-private-keys-basics.md)
 4. [Safe Storage Tips](../../fundamentals/en/4-safe-storage-basics.md)
-5. [Unstoppable Wallet](../../fundamentals/en/5-unstoppable-basics.md)
+5. [Scurdex Wallet](../../fundamentals/en/5-scurdex-basics.md)
 6. [Buying Cryptocurrency](../../fundamentals/en/6-buying-cryptocurrency-basics.md)
 7. [Spending Cryptocurrency](../../fundamentals/en/7-spending-cryptocurrency.md)
 8. [Transactions Explained](../../fundamentals/en/8-transactions-basics.md)
@@ -280,7 +280,7 @@ On a practical level, apart from the difference in transaction fees there is jus
 
 ![](../images/btc-addresses-l.png)
 
-In that regard, the [Unstoppable wallet](https://unstoppable.money) is able to both create and restore wallets operating in any of the three available address formats.
+In that regard, the [Scurdex wallet](https://scurdex.com) is able to both create and restore wallets operating in any of the three available address formats.
 
 ## 12. Bitcoin Privacy 
 
