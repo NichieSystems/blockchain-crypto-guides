@@ -20,7 +20,7 @@ Tether tokens are primarily used by cryptocurrency traders to avoid volatility b
 
 ![landscape](../images/usdt-Exchange-l.png)
 
-For individuals Tether opens up ways for anyone to store assets in USD equivalent on exchanges or ([non-custodial wallet](../../fundamentals/en/2-wallets-basics.md) like Unstoppable) without the need to have a bank account.
+For individuals Tether opens up ways for anyone to store assets in USD equivalent on exchanges or ([non-custodial wallet](../../fundamentals/en/2-wallets-basics.md) like Scurdex) without the need to have a bank account.
 
 For cryptocurrency exchanges Tether provides means to enable cryptocurrency-to-fiat trading without using legacy banking and payment providers which are currently heavily regulated and just plain slow. 
 
