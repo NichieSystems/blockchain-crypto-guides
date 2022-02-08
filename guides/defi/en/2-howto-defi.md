@@ -14,12 +14,12 @@ Let's go over tools and know-how needed to get you started on a practical level.
 
 ## Getting Started
 
-Connecting to a DeFi service merely requires a non-custodial wallet with "WalletConnect" capability. Majority of well engineered non-custodial wallets (like Unstoppable, Trust or MEW) support "WalletConnect" feature.
+Connecting to a DeFi service merely requires a non-custodial wallet with "WalletConnect" capability. Majority of well engineered non-custodial wallets (like Scurdex, Trust or MEW) support "WalletConnect" feature.
 
 1. When you're ready to DeFi, open the web browser and navigate to the DeFi service website you would like to use. 
 2. Once there look for 'connect wallet' button or a similar option. Click on it and look for "WalletConnect" option.
 3. Selecting "WalletConnect" option should present a popup window with a QR code.
-4. Open the wallet app and look for "WalletConnect" feature. On Unstoppable, the option located in Settings tab.
+4. Open the wallet app and look for "WalletConnect" feature. On Scurdex, the option located in Settings tab.
 5. Clicking on "WalletConnect" feature in the wallet app should open the QR code scanner. Use it to scan the QR code presented in step 3.
 6. Click on Connect button.
 
